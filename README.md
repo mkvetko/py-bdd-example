@@ -2,8 +2,8 @@
 Minimal project structure for test automation of any app using behave and python
 
 # Intro
-I was kicking couple test automation projects in the past requiring still the same work to be done on start. 
-So I have decided share my lessons learned on the way with you and I have created this minimalistic setup skeleton of the project using behave and python so you can start from it and add whatever features you need to accomplish your tasks
+I was starting couple of test automation projects from scratch in the past requiring still the same work to be done on start. 
+So I have decided share my lessons learned on the way with you and I have created this minimalistic setup skeleton of the project using behave and python so you can start from it and add whatever features you need to accomplish your tasks.
 
 # Audience
 All test automation engineers can benefit from this as the project is very flexible. 
